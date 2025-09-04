@@ -41,7 +41,7 @@ extension](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode
 
 9. Uma vez feito isso, você deverá conseguir ver o conector listado na janela "Obter Dados".
 
-![Power BI Trino Connector Menu](assets/conector_trino.JPG)
+![Power BI Trino Connector Menu](assets/conector_trino.png)
 
 ## Vídeo tutorial
 
