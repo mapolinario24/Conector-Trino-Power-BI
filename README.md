@@ -6,16 +6,13 @@ Se tudo acontecer conforme o esperado, será adicionado um novo conector do Trin
 
 ![image](assets/connector.png)
 
-## Arquitetura
-![image](assets/architecture.png)
-
 
 ## Pré-requisitos
 * Trino
 * Power BI
 * Power Query SDK (Extensão VS Code)
 
-## Etapas
+## Instruções
 
 1. Instale o [Visual Studio Code](https://code.visualstudio.com/) e a [Power Query SDK
 extension](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery-sdk).
