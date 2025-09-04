@@ -4,7 +4,7 @@ O conector será utilizado para conectar o Power BI no Trino e ser capaz de aces
 
 Se tudo acontecer conforme o esperado, será adicionado um novo conector do Trino no Power BI.
 
-![image](assets/connector.png)
+![image](assets/conector_trino.png)
 
 
 ## Pré-requisitos
@@ -41,7 +41,7 @@ extension](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode
 
 9. Uma vez feito isso, você deverá conseguir ver o conector listado na janela "Obter Dados".
 
-![Power BI Trino Connector Menu](assets/MenuConnector.JPG)
+![Power BI Trino Connector Menu](assets/conector_trino.JPG)
 
 ## Vídeo tutorial
 
