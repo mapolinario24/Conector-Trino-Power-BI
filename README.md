@@ -48,6 +48,9 @@ extension](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode
 
 ## Vídeo tutorial
 
+[Trino Community Broacast 61: Trino powers business intelligence](https://www.youtube.com/watch?v=YlcfTP5ei80&t=689s)
+
+[Como conectar o Power BI no Trino](https://www.youtube.com/watch?v=4eWgjd1Etrw&t=320s)
 
 ## Referências
 https://github.com/CreativeDataEU/PowerBITrinoConnector
